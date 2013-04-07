@@ -1,6 +1,9 @@
 Key Stage 3 ICT
 ===============
 
+__Note: With the draft National Curriculum being issued in 2013, this repo is now obsolete.  Please check out my [KS3 Computing](https://github.com/eaglestone/ks3-computing) repo instead.__
+
+
 Introduction
 ------------
 This repo is currently at a very early stage of development. It will contain lesson plans and resources that I am developing for my Key Stage 3 (ages 11 to 14 years) classes in a UK school.  
